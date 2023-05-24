@@ -586,3 +586,30 @@
   - type: Sprite
     state: crazy
 # Tastes like bun, a smoking flare, chili.
+
+- type: entity
+  name: gun sandwich
+  parent: FoodBurgerBase
+  id: FoodBurgerGunSandwich
+  description: A sandwich with a gun in it
+  components:
+    - type: FlavorProfile
+      flavors:
+      - metallic
+      - bun
+    - type: Food
+      transferAmount: 5
+    - type: Sprite
+      state: gunsandwich
+    - type: SolutionContainerManager
+      solutions:
+        food:
+          maxVol: 10
+          reagents:
+          - ReagentId: Nutriment
+            Quantity: 2
+          - ReagentId: Iron
+            Quantity: 7
+          - ReagentId: Protein
+            Quantity: 1
+#Tastes like a gun

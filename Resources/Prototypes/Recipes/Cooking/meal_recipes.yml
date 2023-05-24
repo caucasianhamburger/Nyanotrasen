@@ -1229,3 +1229,12 @@
   solids:
     FoodMeatLizard: 1
     FoodKebabSkewer: 1
+
+- type: microwaveMealRecipe
+  id: RecipeGunSandwich
+  name: gun sandwich recipe
+  result: FoodBurgerGunSandwich
+  time: 15
+  solids:
+    FoodBreadBun: 1
+    WeaponPistolMk58: 1
