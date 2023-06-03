@@ -1,0 +1,14 @@
+type: species
+id: IPC
+name: species-name-IPC
+roundStart: true
+prototype: MobIPC
+sprites: MobIPCSprites
+markingLimits: MobIPCMarkingLimits
+dollPrototpye: MobIPCDummy
+skinColoration: Hues
+firstNames: names_IPC_first
+lastNames: names_IPC_lasr
+
+- type: speciesBaseSprites
+  id: MobIPCSprites

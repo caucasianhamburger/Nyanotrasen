@@ -1,0 +1,30 @@
+- type: entity
+  id: PartIPC
+  parent: BaseItem
+  name: "IPC part"
+  abstract: true
+  components:
+    - type: Damageable
+      damageContainer: Inorganic
+    - type: BodyPart
+    - type: ContainerContainer
+      containers:
+        bodypart: !type:Container
+          ents: []
+    - type: DynamicPrice
+      price: 200
+
+- type: entity
+  id: TorsoIPC
+  name: "IPC Torso"
+  parent: PartIPC
+  components:
+  - type: Sprite
+    netsync: false
+    sprite: Nyanotrasen/Mobs/Species/IPC.rsi
+    state: "torso"
+  - type: Icon
+    sprite: Nyanotrasen/Mobs/Species/IPC.rsi
+    state: "torso"
+  - type: BodyPart
+    partType: Torso
