@@ -18,13 +18,14 @@
   id: TorsoIPC
   name: "IPC Torso"
   parent: PartIPC
+  description: 
   components:
   - type: Sprite
     netsync: false
-    sprite: Nyanotrasen/Mobs/Species/IPC.rsi
+    sprite: Nyanotrasen/Mobs/Species/IPC/parts.rsi
     state: "torso"
   - type: Icon
-    sprite: Nyanotrasen/Mobs/Species/IPC.rsi
+    sprite: Nyanotrasen/Mobs/Species/IPC/parts.rsi
     state: "torso"
   - type: BodyPart
     partType: Torso

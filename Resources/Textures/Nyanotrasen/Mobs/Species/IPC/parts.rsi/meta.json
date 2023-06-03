@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "license": "GNU Affero General Public License v3.0",
+  "copyright": "https://github.com/Aurorastation/Aurora.3/blob/master/icons/obj/assemblies.dmi",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "armor-igniter-analyzer"
+    },
+    {
+      "name": "infra-igniter0",
+      "directions": 4
+    },
+    {
+      "name": "infra-igniter1",
+      "directions": 4
+    },
+    {
+      "name": "infra-igniter-tank0",
+      "directions": 4
+    },
+    {
+      "name": "infra-igniter-tank1",
+      "directions": 4
+    },
+    {
+      "name": "infrared-radio0",
+      "directions": 4
+    },
+    {
+      "name": "infrared-radio1",
+      "directions": 4
+    },
+    {
+      "name": "prox-igniter0"
+    },
+    {
+      "name": "prox-igniter1",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "prox-igniter2",
+      "delays": [
+        [
+          0.5,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "prox-multitool0"
+    },
+    {
+      "name": "prox-multitool1",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "prox-multitool2",
+      "delays": [
+        [
+          0.5,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "prox-radio0"
+    },
+    {
+      "name": "prox-radio1",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "prox-radio2",
+      "delays": [
+        [
+          0.1,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "prox-igniter-tank0"
+    },
+    {
+      "name": "prox-igniter-tank1",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "prox-igniter-tank2",
+      "delays": [
+        [
+          0.5,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "radio-igniter"
+    },
+    {
+      "name": "radio-igniter-tank"
+    },
+    {
+      "name": "radio-multitool"
+    },
+    {
+      "name": "radio-radio"
+    },
+    {
+      "name": "timer-igniter0"
+    },
+    {
+      "name": "timer-igniter1",
+      "delays": [
+        [
+          0.9,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "timer-igniter2",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "timer-igniter-tank0"
+    },
+    {
+      "name": "timer-igniter-tank1",
+      "delays": [
+        [
+          0.9,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "timer-igniter-tank2",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "timer-multitool0"
+    },
+    {
+      "name": "timer-multitool1"
+    },
+    {
+      "name": "timer-multitool2"
+    },
+    {
+      "name": "timer-radio0"
+    },
+    {
+      "name": "timer-radio1"
+    },
+    {
+      "name": "timer-radio2"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "plastic-explosive0"
+    },
+    {
+      "name": "plastic-explosive1",
+      "delays": [
+        [
+          0.9,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "plastic-explosive2",
+      "delays": [
+        [
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "valve_1"
+    },
+    {
+      "name": "valve"
+    },
+    {
+      "name": "device"
+    },
+    {
+      "name": "phoron"
+    },
+    {
+      "name": "oxygen"
+    },
+    {
+      "name": "anesthetic"
+    },
+    {
+      "name": "emergency"
+    },
+    {
+      "name": "emergency_sleep"
+    },
+    {
+      "name": "oxygen_fr"
+    },
+    {
+      "name": "oxygen_f"
+    },
+    {
+      "name": "emergency_engi"
+    },
+    {
+      "name": "emergency_double"
+    },
+    {
+      "name": "jetpack"
+    },
+    {
+      "name": "jetpack-void"
+    },
+    {
+      "name": "jetpack-black"
+    },
+    {
+      "name": "posibrain"
+    },
+    {
+      "name": "posibrain-occupied",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "posibrain-searching",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "hydrogen"
+    },
+    {
+      "name": "brain"
+    },
+    {
+      "name": "brain_skrell"
+    },
+    {
+      "name": "brain_vaurca"
+    },
+    {
+      "name": "mmi-empty"
+    },
+    {
+      "name": "mmi-brain"
+    },
+    {
+      "name": "mmi-nodiodes"
+    },
+    {
+      "name": "mmi-diodes"
+    },
+    {
+      "name": "mmi-sealedoff"
+    },
+    {
+      "name": "mmi-sealedon"
+    }
+  ]
+}

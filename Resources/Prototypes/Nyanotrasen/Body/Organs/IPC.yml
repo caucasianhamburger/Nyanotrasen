@@ -1,0 +1,24 @@
+type: entity
+id: BaseIPCOrgan
+parent: BaseItem
+abstract: true 
+components:
+ - type: Sprite
+   netsync: false
+   sprite: Nyanotrasen/Mobs/Species/IPC/organs.rsi
+ - type: Organ
+ - type: DynamicPrice
+   price: 350
+
+type: entity
+id: OrganPosiBrain
+parent: BaseIPCOrgan
+name: posibrain
+components:
+- type: Sprite
+  state: brain
+- type: Organ
+- type: Input
+  context: "ghost"
+- type: InputMover
+- type: Brain
